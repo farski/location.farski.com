@@ -1,5 +1,5 @@
 $(function() {
-  $.getJSON('https://u5ahj50at7.execute-api.us-east-1.amazonaws.com/prod', function(data) {
+  $.getJSON('https://bqtq1islee.execute-api.us-east-1.amazonaws.com/', function(data) {
 
     $('#frame').animate({'opacity': '1.0'}, 1000);
 
